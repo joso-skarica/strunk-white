@@ -2,6 +2,14 @@
 
 *The Elements of Style* as a Claude plugin. One skill sets the style; three apply its rules to text you already wrote.
 
+## Install
+
+From the Claude plugin directory, or in Claude Code:
+
+```
+/plugin install strunk-white --marketplace joso-skarica/strunk-white
+```
+
 ## Skills
 
 | Skill | What it does | How it triggers |
