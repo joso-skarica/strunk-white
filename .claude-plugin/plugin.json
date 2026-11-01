@@ -1,12 +1,18 @@
 {
   "name": "strunk-white",
-  "version": "2.0.0",
+  "displayName": "Strunk & White",
+  "version": "2.0.1",
   "description": "Strunk & White for Claude: a writing style after The Elements of Style, plus three editors built on the same rules — line edit, prose check, and cut to length.",
   "author": {
     "name": "Joso Škarica",
     "email": "joso@skarica.eu",
     "url": "https://skarica.eu"
   },
+  "homepage": "https://github.com/joso-skarica/strunk-white#readme",
+  "repository": "https://github.com/joso-skarica/strunk-white",
+  "documentationUrl": "https://github.com/joso-skarica/strunk-white#readme",
+  "supportUrl": "https://github.com/joso-skarica/strunk-white/issues",
+  "icon": "./.claude-plugin/icon.png",
   "license": "Apache-2.0",
   "keywords": ["writing", "editing", "style", "clarity", "strunk-white", "elements-of-style"]
 }
